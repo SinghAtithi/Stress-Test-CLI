@@ -13,7 +13,7 @@ The **Test Comparator CLI** is a Bash script designed to compare the outputs of 
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your_username/test-comparator.git](https://github.com/SinghAtithi/Stress-Test-CLI.git)
+    git clone https://github.com/SinghAtithi/Stress-Test-CLI.git
     cd Stress-Test-CLI
     ```
 
