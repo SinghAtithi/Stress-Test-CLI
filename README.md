@@ -20,7 +20,7 @@ The **Test Comparator CLI** is a Bash script designed to compare the outputs of 
 2. **Make the script executable:**
 
     ```bash
-    chmod +x test_script.sh
+    chmod +x stressTest.sh
     ```
 
 3. **Usage:**
@@ -28,7 +28,7 @@ The **Test Comparator CLI** is a Bash script designed to compare the outputs of 
     Run the script by providing the generator, correct code, and wrong code filenames as arguments.
 
     ```bash
-    ./test_script.sh -g generatorCode.cpp -c correctCode.cpp -w wrongCode.cpp
+    ./stressTest.sh -g generator.cpp -c correctCode.cpp -w wrongCode.cpp
     ```
 
 ## Examples
