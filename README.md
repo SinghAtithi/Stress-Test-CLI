@@ -41,3 +41,9 @@ Running the script to compare outputs of C++ programs:
 
 ```bash
 ./test_script.sh -g generator.cpp -c correctProgram.cpp -w wrongProgram.cpp
+
+### Flag Explanation
+
+- `-g generator.cpp`: Specifies the file containing the code to generate test cases.
+- `-c correctProgram.cpp`: Indicates the correct C++ program for output comparison.
+- `-w wrongProgram.cpp`: Specifies the potentially erroneous C++ program to compare against the correct one.
