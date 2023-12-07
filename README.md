@@ -2,6 +2,8 @@
 
 The **Test Comparator CLI** is a Bash script designed to compare the outputs of two C++ programs given different inputs. This tool assists in validating correctness between a correct and a potentially erroneous implementation of an algorithm or code snippet.
 
+## I have given **my generator code** snippet in generator.cpp, you can use it or write your own generator code
+
 ## Features
 
 - **Automated Comparison:** Quickly test and compare the outputs of two C++ programs with generated test cases.
